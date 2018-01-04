@@ -14,3 +14,9 @@ The link for documentation of the library is given [here](https://docs.scipy.org
 * ## cx_Freeze
 cx_Freeze is a set of scripts and modules for freezing Python scripts into executables, in much the same way that py2exe and py2app do. Unlike these two tools, cx_Freeze is cross platform and should work on any platform that Python itself works on. It supports Python 2.7 or higher (including Python 3).  
 The link for documentation of the library is given [here](https://cx-freeze.readthedocs.io/en/latest)  
+
+## References 
+
+[Wikipedia](https://en.wikipedia.org)  
+[NumPy](http://www.numpy.org)  
+[Pygame](https://www.pygame.org)
